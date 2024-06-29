@@ -105,6 +105,7 @@ public interface IPasswordValidator
         }
     }
 }
-98765tredd
-
-
+98765tre
+    xcvbjcs
+   sdgh
+    dsdfghj
